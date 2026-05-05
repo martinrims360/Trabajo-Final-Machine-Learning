@@ -95,7 +95,7 @@ La matriz de confusión mostró valores altos en la diagonal principal, indicand
 El modelo fue capaz de predecir correctamente los dígitos.
 Por ejemplo, se obtuvo la predicción correcta del número **7** a partir de una imagen manuscrita.
 
-![Predicción del modelo](Figure_numero_7.png)
+![Predicción del modelo](src/Figure_numero_7.png)
 
 ---
 
